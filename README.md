@@ -2,7 +2,7 @@
 FAANG CLEAN ELITE README
 ========================= -->
 
-<h1 align="center">Hi 👋, I'm Olusegun Mayungbe</h1>
+<h1 align="center">👋, I'm Olusegun Mayungbe</h1>
 <h3 align="center">Platform Engineer | DevSecOps | Cloud Infrastructure Automation</h3>
 
 <p align="center">
