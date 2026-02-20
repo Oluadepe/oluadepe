@@ -1,5 +1,6 @@
 <!-- =====================================
 FAANG CLEAN ELITE v2.1 (HYBRID VERSION)
+FULL VERIFIED VERSION
 ===================================== -->
 
 <h1 align="center">Hi 👋, I'm Olusegun Mayungbe</h1>
@@ -17,7 +18,7 @@ Building secure, scalable Kubernetes platforms across Azure & AWS using Terrafor
 ## 🚀 Platform Engineering Signal
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00AEEF&center=true&vCenter=true&width=850&lines=Platform+Engineer;DevSecOps+Engineer;Cloud+Platform+Builder;Kubernetes+Platform+Engineering;Terraform+Infrastructure+Automation;Secure+Cloud+Delivery+Pipelines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00AEEF&center=true&vCenter=true&width=850&lines=Platform+Engineer;DevSecOps+Engineer;Cloud+Platform+Builder;Kubernetes+Platform+Engineering;Terraform+Infrastructure+Automation;Secure+Cloud+Delivery+Pipelines" alt="Typing SVG" />
 </p>
 
 ---
