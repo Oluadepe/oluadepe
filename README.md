@@ -1,83 +1,107 @@
-<h1 align="center">Olusegun Mayungbe</h1>
-<h3 align="center">Senior DevOps Engineer | Site Reliability Engineer | Multi-Cloud Architect</h3>
+<!-- =====================================
+FAANG CLEAN ELITE v2.1 (HYBRID VERSION)
+===================================== -->
+
+<h1 align="center">Hi 👋, I'm Olusegun Mayungbe</h1>
+
+<h3 align="center">
+Platform Engineer | DevSecOps | Cloud Infrastructure Automation
+</h3>
 
 <p align="center">
-Building enterprise Kubernetes platforms across Azure, AWS, and GCP using Terraform, GitOps, and CI/CD
+Building secure, scalable Kubernetes platforms across Azure & AWS using Terraform, GitOps, and CI/CD automation.
 </p>
 
 ---
 
-## Tech Stack
+## 🚀 Platform Engineering Signal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,kubernetes,docker,terraform,linux,bash,github,git" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00AEEF&center=true&vCenter=true&width=850&lines=Platform+Engineer;DevSecOps+Engineer;Cloud+Platform+Builder;Kubernetes+Platform+Engineering;Terraform+Infrastructure+Automation;Secure+Cloud+Delivery+Pipelines" />
 </p>
 
 ---
 
-## Enterprise Cloud Platform Projects
-
-### Azure AKS Enterprise Platform
-Production-grade Azure Kubernetes platform using Terraform, Azure DevOps, Helm, and Workload Identity
-
-Repository:  
-https://github.com/Oluadepe/azure-aks-enterprise-platform
-
----
-
-### AWS EKS Enterprise Platform
-Enterprise Kubernetes platform using Terraform, GitHub Actions, GitOps, ExternalDNS, and TLS automation
-
-Repository:  
-https://github.com/Oluadepe/eks-production-platform
-
----
-
-### Enterprise CI/CD Platform
-Secure CI/CD pipelines for automated container deployment
-
-Repository:  
-https://github.com/Oluadepe/enterprise-cicd-pipeline
-
----
-
-## Core Expertise
-
-Multi-Cloud Infrastructure: Azure, AWS, GCP  
-Kubernetes Platform Engineering: AKS, EKS, GKE  
-Infrastructure as Code: Terraform  
-CI/CD Automation: Azure DevOps, GitHub Actions  
-GitOps: ArgoCD  
-Cloud Security: Workload Identity, IAM  
-Containers: Docker, Kubernetes  
-
----
-
-## GitHub Stats
+## ☁️ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Oluadepe&show_icons=true&theme=default" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oluadepe&layout=compact&theme=default" height="180"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,linux,bash,python,git" />
 </p>
 
 ---
 
-## Connect With Me
+## 🧠 Platform Engineering Portfolio
 
-LinkedIn  
+### 🔵 Azure AKS Enterprise Platform
+Production-grade Kubernetes platform built using Terraform, Azure DevOps, Helm, and Workload Identity.
+
+🔗 https://github.com/Oluadepe/azure-aks-enterprise-platform
+
+---
+
+### 🟣 AWS EKS Production Platform
+Enterprise Kubernetes platform using Terraform, GitHub Actions, GitOps, ExternalDNS, and TLS automation.
+
+🔗 https://github.com/Oluadepe/eks-production-platform
+
+---
+
+### 🟢 Enterprise CI/CD Platform
+Secure CI/CD pipelines for automated container build and deployment.
+
+🔗 https://github.com/Oluadepe/enterprise-cicd-pipeline
+
+---
+
+### 🟠 Terraform Enterprise Infrastructure
+Reusable Terraform modules supporting multi-environment cloud infrastructure.
+
+🔗 https://github.com/Oluadepe/terraform-enterprise-infrastructure
+
+---
+
+## 📊 GitHub Engineering Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Oluadepe&show_icons=true&theme=default&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Oluadepe&theme=default&hide_border=true" />
+
+</p>
+
+---
+
+## ⚡ Core Expertise
+
+- Platform Engineering (AKS / EKS)
+- Infrastructure as Code (Terraform)
+- CI/CD Automation (GitHub Actions, Azure DevOps)
+- Kubernetes & Helm
+- GitOps (ArgoCD)
+- Cloud Security (IAM, RBAC, Workload Identity)
+- Observability & Reliability Engineering
+
+---
+
+## 🔗 Connect With Me
+
+💼 LinkedIn:  
 https://www.linkedin.com/in/molusegun
 
 ---
 
-## Availability
+## 🎯 Availability
 
 Open to:
 
-Senior DevOps Engineer roles  
-Site Reliability Engineer roles  
-Azure DevOps Engineer roles  
-Remote and relocation opportunities
+- Platform Engineer roles
+- DevSecOps Engineer roles
+- Site Reliability Engineer roles
+- Remote & relocation opportunities
 
 ---
 
-Building scalable enterprise cloud platforms using Kubernetes, Terraform, and Azure DevOps.
+<p align="center">
+⭐ Building reliable internal platforms that make engineers faster.
+</p>
