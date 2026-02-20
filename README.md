@@ -1,5 +1,5 @@
 <!-- =====================================
-FAANG CLEAN ELITE v2.1 (HYBRID VERSION)
+FAANG CLEAN ELITE v2.2 (HYBRID+)
 FULL VERIFIED VERSION
 ===================================== -->
 
@@ -8,6 +8,10 @@ FULL VERIFIED VERSION
 <h3 align="center">
 Platform Engineer | DevSecOps | Cloud Infrastructure Automation
 </h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00AEEF&center=true&vCenter=true&width=900&lines=Platform+Engineer+%7C+DevSecOps+%7C+Cloud+Infrastructure+Automation" alt="Typing SVG" />
+</p>
 
 <p align="center">
 Building secure, scalable Kubernetes platforms across Azure & AWS using Terraform, GitOps, and CI/CD automation.
@@ -64,11 +68,8 @@ Reusable Terraform modules supporting multi-environment cloud infrastructure.
 ## 📊 GitHub Engineering Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Oluadepe&show_icons=true&theme=default&hide_border=true" />
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Oluadepe&theme=default&hide_border=true" />
-
 </p>
 
 ---
