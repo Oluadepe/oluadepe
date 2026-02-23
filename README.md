@@ -54,8 +54,8 @@ I design and operate scalable cloud infrastructure, Kubernetes platforms, and au
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn link]
-- Email: [Add your email]
+- LinkedIn: https://www.linkedin.com/in/molusegun
+- Email: olusegunmayungbe@outlook.com
 
 ---
 
